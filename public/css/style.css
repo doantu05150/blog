@@ -1,0 +1,35 @@
+.whov:hover { background-color: #00695c!important; }
+.view {
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 500px;
+}
+.secondbase {
+    background-color: rgba(255,255,255,.6); 
+    margin-top: -90px;
+}
+#login-modal {
+	padding-top: 150px;
+}
+#login-modal .modal-dialog {
+    width: 560px;
+}
+.modal-content {
+    background-color: #ececec;
+    border: 1px solid #bdc3c7;
+    border-radius: 0px;
+    outline: 0;
+}
+
+.modal-header {
+    min-height: 16.43px;
+    padding: 15px 15px 15px 15px;
+    border-bottom: 0px;
+}
+
+.modal-body {
+    position: relative;
+    padding: 5px 15px 5px 15px;
+}
+.form-control { margin-bottom: 10px; }
+
